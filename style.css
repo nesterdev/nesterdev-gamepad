@@ -1,0 +1,33 @@
+html, body {
+    background: transparent !important;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+/* Transparencia general */
+.controller {
+    opacity: 0.45 !important;
+    filter: drop-shadow(0px 0px 10px rgba(0, 255, 255, 0.5));
+}
+
+/* Bordes Cyan en reposo */
+.controller .button,
+.controller .dpad div,
+.controller .stick {
+    border: 2px solid #00ffff !important;
+    background-color: rgba(0, 255, 255, 0.1) !important;
+}
+
+/* Efecto Neón Cyan al presionar */
+.controller .pressed,
+.controller .button.pressed,
+.controller .dpad div.pressed,
+.controller .stick.pressed,
+.controller .trigger.pressed {
+    opacity: 1 !important;
+    background-color: #00ffff !important;
+    background-image: none !important;
+    box-shadow: 0 0 15px #00ffff, 0 0 30px #00ffff !important;
+    filter: drop-shadow(0 0 10px #00ffff) !important;
+}

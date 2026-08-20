@@ -61,8 +61,8 @@
   <g id="g26664" transform="matrix(3.8978512,0,0,3.8978512,-43.807017,-57.862657)" display="inline">
    <path id="rect21794" d="m507.78,545.89a6.61,6.61 0 0 0 -6.61,6.61a6.61,6.61 0 0 0 6.61,6.62l38.55,0a6.61,6.61 0 0 0 6.62,-6.62a6.61,6.61 0 0 0 -6.62,-6.61l-38.55,0z" transform="scale(0.26458333)" stroke-miterlimit="4" stroke-linejoin="round" stroke-linecap="round" stroke-width="1.51" stroke="#000000" fill="#333333"/>
   </g>
-  <text fill="#80ffff" stroke="#000000" stroke-width="0" x="-315" y="459.94" id="svg_1" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="rotate(-65.6536 92.3334 601.973) matrix(1.98643 0 0 2.17908 718.058 -379.884)">NesTerLoN</text>
-  <text fill="#80ffff" stroke="#000000" stroke-width="0" x="-315" y="459.94" id="svg_2" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="rotate(66.7363 889.497 582.433) matrix(1.98643 0 0 2.17908 1515.22 -399.423)" style="cursor: move;">XLink Kai</text>
+  <text fill="#80ffff" stroke="#000000" stroke-width="0" x="-315" y="459.94" id="svg_1" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="rotate(-65.6536 156.392 612.821) matrix(3.47202 0 0 5.0868 1250.08 -1678.3)">NesTerLoN</text>
+  <text fill="#80ffff" stroke="#000000" stroke-width="0" x="-315" y="459.94" id="svg_2" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="rotate(66.7363 835.609 607.679) matrix(3.77024 0 0 4.70528 2023.68 -1511.75)">XLink Kai</text>
   <text fill="#80ffff" stroke="#000000" stroke-width="0" x="-315" y="459.94" id="svg_4" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="rotate(-1.40732 500.491 540.903) matrix(0.601344 0 0 0.885811 690.288 141.678)">XEMU</text>
  </g>
 </svg>

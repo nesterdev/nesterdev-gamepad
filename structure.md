@@ -16,6 +16,7 @@
 │   ├── 📄 style.css
 │   ├── 📄 touchpad.svg
 │   └── 📄 triggers.svg
+├── 📄 README
 └── 📄 structure.md
 ```
 <!-- PROJECT_STRUCTURE_END -->

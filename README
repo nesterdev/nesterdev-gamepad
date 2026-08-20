@@ -1,0 +1,12 @@
+# Custom Gamepad Viewer Skins
+
+Skin personalizada de PlayStation 5 con la marca **TeaM-[DsC]** lista para usar en OBS Studio y Gamepad Viewer.
+
+---
+
+## 🎮 Enlace Directo para Gamepad Viewer / OBS
+
+Usa esta URL directamente en Gamepad Viewer o como **Fuente de Navegador (Browser Source)** en OBS Studio:
+
+```text
+[https://gamepadviewer.com/?p=1&css=https://nesterdev.github.io/nesterdev-gamepad/ps5/style.css](https://gamepadviewer.com/?p=1&css=https://nesterdev.github.io/nesterdev-gamepad/ps5/style.css)

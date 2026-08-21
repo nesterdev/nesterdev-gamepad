@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<svg width="422.07492" height="468.27496" xmlns="http://www.w3.org/2000/svg" xmlns:svg="http://www.w3.org/2000/svg" version="1.1">
+ <title id="title63815">PS5 DualSense Controller</title>
+ <style type="text/css" id="style2">.st0{fill:#61E0DF;}
+	.st1{fill:#3ED8D2;}</style>
+ <style type="text/css" id="style2-5">.st0{fill:#3ED8D2;}
+	.st1{fill:#61E0DF;}
+	.st2{opacity:8.000000e-002;}</style>
+ <metadata id="metadata63811">PS5 DualSense Controller2024-03-14Robin Christopher Ladigeshttps://rcl.blackpinguin.de/</metadata>
+ <g class="layer">
+  <title>Layer 1</title>
+  <g id="g1054" fill-opacity="0.2">
+   <path id="path833" d="m211.34,239.66c-61.36,0.04 -122.63,4.19 -183.67,10.18c-18.7,9.18 -20,29.01 -13.86,46.88c9.15,42.68 17.76,85.54 28,127.97c6.96,20.07 27.35,34.76 48.85,32.91c82.43,-0.55 164.87,0.52 247.3,-0.01c25.2,-1.59 43.63,-24.39 46.62,-48.35c8.56,-46.3 21.35,-91.94 26.89,-138.73c1.37,-11.81 -13.97,-20.01 -21.58,-21.82c-55.78,-5.24 -111.84,-7.21 -167.83,-8.93c-3.57,-0.06 -7.15,-0.09 -10.72,-0.1z" stroke-width="1.03px" stroke="#993e00" fill="#ff7f27" display="inline"/>
+  </g>
+  <g id="g1046" fill-opacity="0.2">
+   <path id="path6056" d="m211.34,10.52c-61.36,0.05 -122.63,4.19 -183.67,10.18c-18.7,9.18 -20,29.02 -13.86,46.88c9.15,42.69 17.76,85.54 28,127.97c6.96,20.08 27.35,34.76 48.85,32.91c82.43,-0.55 164.87,0.52 247.3,-0.01c25.2,-1.59 43.63,-24.39 46.62,-48.35c8.56,-46.3 21.35,-91.94 26.89,-138.73c1.37,-11.8 -13.97,-20.01 -21.58,-21.82c-55.78,-5.24 -111.84,-7.2 -167.83,-8.93c-3.57,-0.06 -7.15,-0.09 -10.72,-0.1z" stroke-width="1.03px" stroke="#009999" fill="#00ffff" display="inline"/>
+  </g>
+  <text fill="#000000" stroke-width="0" opacity="0.55" x="-562.46" y="127.73" id="svg_15" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="matrix(1.8931 0 0 0.583323 1271.58 148.658)">Halo 2 Forever</text>
+  <g id="svg_1" transform="matrix(2.33459 0 0 1.93593 729.35 -237.476)">
+   <g id="svg_2" transform="matrix(1.71926 0 0 1.17942 711.695 44.5384)">
+    <text fill="#000000" x="-554.46" y="111.73" id="svg_3" font-size="24" font-family="Helvetica" text-anchor="middle" xml:space="preserve" font-weight="bold" stroke="#00ffff" transform="rotate(-32.0054 -554.463 103.725)" fill-opacity="0" stroke-opacity="0.4">TeaM</text>
+    <text fill="#000000" x="-541.46" y="136.73" id="svg_4" font-size="24" font-family="Helvetica" text-anchor="middle" xml:space="preserve" font-weight="bold" stroke="#00ffff" transform="rotate(-33.3407 -541.372 120.788) matrix(1.11602 0 0 1.2247 62.8791 -35.1607)" fill-opacity="0" stroke-opacity="0.4">[DsC]</text>
+   </g>
+  </g>
+  <text fill="#000000" stroke-width="0" opacity="0.55" x="-562.46" y="127.73" id="svg_5" font-size="24" font-family="Fantasy" text-anchor="middle" xml:space="preserve" transform="matrix(1.8931 0 0 0.583323 1274.56 378.338)">Halo 2 Forever</text>
+  <g id="svg_6" transform="matrix(2.33459 0 0 1.93593 780.125 -8.24596)">
+   <g id="svg_7" transform="matrix(1.71926 0 0 1.17942 691.695 44.5384)">
+    <text fill="#ff7f00" x="-554.46" y="111.73" id="svg_8" font-size="24" font-family="Helvetica" text-anchor="middle" xml:space="preserve" font-weight="bold" stroke="#ff7f00" transform="rotate(-32.0054 -554.463 103.725)" fill-opacity="0" stroke-opacity="0.4">TeaM</text>
+    <text fill="none" x="-541.46" y="136.73" id="svg_9" font-size="24" font-family="Helvetica" text-anchor="middle" xml:space="preserve" font-weight="bold" stroke="#ff7f00" transform="rotate(-33.3407 -540.668 121.911) matrix(1.11602 0 0 1.2247 63.6119 -35.3627)" stroke-opacity="0.4">[DsC]</text>
+   </g>
+  </g>
+ </g>
+</svg>
